@@ -108,6 +108,26 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "Zelosian",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Wibbit",
+      "species": "Frog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
